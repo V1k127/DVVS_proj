@@ -1,2 +1,0 @@
-# DVVS
-My project
